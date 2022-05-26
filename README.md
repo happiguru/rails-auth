@@ -73,7 +73,6 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn:[LinkedIn](https://www.linkedin.com/in/lekunze-nley)
 
 ## 🤝 Contributing
-Contributions, issues and feature requests are welcome!
 
 Contributions, [issues](https://github.com/aproplat/www/issues), and feature requests are welcome!
 
