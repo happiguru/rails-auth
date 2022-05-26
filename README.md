@@ -1,8 +1,10 @@
-# README
+## APROPLAT PROJECT
 
-# OETA PROJECT
+The scope APROPLAT covers two main components:-
 
-> OETA (OPEN ELECTRONIC THESIS AFRICA) is an online Thesis repository built to serve institutions in Africa and beyond.
+- To create a system (Academic Project Management System - APMS) that can facilitate the management of students' academic research process from proposal preparation to defense and final submission of the thesis to the library.
+
+- To build a system (Open Electronic Thesis Africa - OETA) through which students can submit their approved thesis to their respective institutions’ repositories or directly to OETA so that it is electronically accessible and can get indexed on other research websites like google scholar.
 
 
 ## Live demo
