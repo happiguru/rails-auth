@@ -1,15 +1,10 @@
-## APROPLAT PROJECT
+## Rails Auth
 
-The scope APROPLAT covers two main components:-
-
-- To create a system (Academic Project Management System - APMS) that can facilitate the management of students' academic research process from proposal preparation to defense and final submission of the thesis to the library.
-
-- To build a system (Open Electronic Thesis Africa - OETA) through which students can submit their approved thesis to their respective institutions’ repositories or directly to OETA so that it is electronically accessible and can get indexed on other research websites like google scholar.
-
+This a sample Rails authentication repo created for easy usage
 
 ### Live demo
 
-You can visit our website on [this link](https://aproplat.com/)
+You can visit our website on [this link](https://demo.com/)
 
 ### Built With
 
@@ -45,7 +40,7 @@ In order to run, you need to install Ruby in your computer. For windows you can 
 To get a local copy up and running follow these simple example steps.
 
 - Open a terminal
-- Copy this code : ```git clone "git@github.com:aproplat/www.git"```
+- Copy this code : ```git clone "git@github.com:happiguru/rails-auth.git"```
 <!-- - Run the program with this code : ```yarn install``` -->
 - Run the program with this code : ```bundle install```
 - Run the program with this code : ```rails db:create rails db:migrate rails server```
@@ -74,7 +69,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### 🤝 Contributing
 
-Contributions, [issues](https://github.com/aproplat/www/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/happiguru/rails-auth/issues), and feature requests are welcome!
 
 ### 📝 License
 This project is [MIT](lic.url) licensed.
